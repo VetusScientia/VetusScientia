@@ -9,11 +9,27 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImZyll&layout=compact&theme=gotham" alt="ImZyll Statistics." />
 
 </p>
+
 <hr>
 
-Discord: ! Zyll#3736
-
 <br>
+
+![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)
+<p>
+! Zyll#3736
+</p>
+
+<p>
+Welcome my profile in Github!
+    
+<b>I'm just a 15 year old boy who tries to be different</b>
+    
+<code><b>Profile inspiration: [zSpl1nterUS](https://github.com/zSpl1nterUS)</b></code>
+</p>
+
+<hr>
+
+<b>Languages I'm studying</b>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
