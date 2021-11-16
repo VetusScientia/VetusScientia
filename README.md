@@ -16,7 +16,7 @@
 
 ![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)
 <p>
-imZyll#0001
+imZyll#8902
 </p>
 
 <p>
