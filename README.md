@@ -29,7 +29,7 @@ Welcome my profile in Github!
 
 <b>Languages I'm studying</b>
 
-![C++](ttps://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
