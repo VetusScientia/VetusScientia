@@ -22,20 +22,16 @@ imZyll#8902
 <p>
 Welcome my profile in Github!
     
-<b>I'm just a 15 year old boy who tries to be different</b>
-    
-<code><b>Profile inspiration: [zSpl1nterUS](https://github.com/zSpl1nterUS)</b></code>
+<b>I'm just a 16 year old boy who tries to be different</b>
 </p>
 
 <hr>
 
 <b>Languages I'm studying</b>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=3799d6)
+![C++](ttps://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![TS](https://img.shields.io/badge/-ts-000000?style=for-the-badge&logo=typescript&logoColor=00acd7)
