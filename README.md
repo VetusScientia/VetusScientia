@@ -5,8 +5,7 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/FaultyySystem?label=Follow%20Me&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=FaultyySystem&show_icons=true&custom_title=FaultyySystem%20Statistics&theme=dracula" alt="FaultyySystem Statistics." />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaultyySystem&layout=compact&theme=dracula" alt="ImZyll Statistics." />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaultyySystem&layout=compact&theme=dracula" alt="FaultyySystem Statistics." />
 
 </p>
 
