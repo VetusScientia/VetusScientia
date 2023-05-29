@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-4/852936092863692821.png" />
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/github/followers/FaultyySystem?label=Follow%20Me&style=social" alt="github followers" /><br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaultyySystem&layout=compact&theme=dark" alt="FaultyySystem Statistics." />
@@ -13,20 +9,18 @@
 
 <br>
 
-![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)
-<p>
-FaultySystem#8902
+Discord: VetusScientia#8902
 </p>
 
 <p>
-Welcome my profile in Github!
-    
-<b>I'm just a 16 year old boy who tries to be different</b>
+Bem-vindo ao meu perfil.
+
+Aqui você encontrará meus projetos e o meu blog - onde ensino sobre vários assuntos.
 </p>
 
 <hr>
 
-<b>Languages I'm studying</b>
+<b>O que estou estudando</b>
 
 ![C++](https://img.shields.io/badge/-++-black?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
