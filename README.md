@@ -1,26 +1,30 @@
-<p align="center">
-    <img src="https://img.shields.io/github/followers/VetusScientia?label=Follow%20Me&style=social" alt="github followers" /><br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetusScientia&layout=compact&theme=dark" alt="VetusScientia Statistics." />
+# Emanuel Junior
 
-</p>
+Hello! 👋 I'm Emanuel, I'm 17 years old and I'm enthusiastic about computing, physics, and astronomy. Currently, I'm gaining knowledge by working on personal projects. Here's a bit more about me:
 
-Discord: VetusScientia
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VetusScientia&show_icons=true&count_private=true&hide=prs)
 
-Bem-vindo ao meu perfil.
+## About Me
+- 🌌 Agnostic
+- 🇧🇷 I live in Brazil
+- 🎮 Game lover
+- 📚 Future computer engineer (aspiring for ITA)
+- 💻 Goal: Programmer and Entrepreneur
 
-Aqui você encontrará meus projetos e o meu blog - onde ensino sobre vários assuntos.
+## Interests
+- 🖥️ Computing
+- 🧮 Mathematics
+- 🚀 Astronomy
+- 🧪 Physics
+- 🧾 General scientific topics
 
-### O que estou estudando
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/emanuel-junior-03b406286/)
+- [Email](emanueljunior756@gmail.com)
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/VetusScientia)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/VetusScientia)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/VetusScientia)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=eclipse)](https://github.com/VetusScientia)
+## Favorite Languages
+- C++ 🇨‌🇵‌🇵‌
+- Python 🐍
 
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
-
-### OS
-
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/VetusScientia)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VetusScientia)
