@@ -19,6 +19,10 @@ Hello! 👋 I'm Emanuel, I'm 17 years old and I'm enthusiastic about computing, 
 - 🧪 Physics
 - 🧾 General scientific topics
 
+## Visitor Counter
+
+![:VetusScientia](https://count.getloli.com/get/@:VetusScientia)
+
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/emanuel-junior-03b406286/)
 - [Email](emanueljunior756@gmail.com)
